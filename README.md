@@ -38,7 +38,7 @@ Contributions to this project are welcome. Please submit pull requests or issues
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-For support or queries, contact [project-email@example.com].
+For support or queries, contact [kushalbanda265@gmail.com].
 
 ---
 
